@@ -10,4 +10,5 @@
   <a href="https://vk.com/idwhite_duke">
     <img src="https://img.shields.io/badge/Vkontakte-black?style=for-the-badge&logo=vk&logoColor=white" alt="Vkontakte Badge"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=Igsiggs&style=flat-square&color=blue" alt=""/>
 </div>
