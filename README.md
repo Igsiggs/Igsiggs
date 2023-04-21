@@ -23,6 +23,6 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="400"/>
 </div>
 
