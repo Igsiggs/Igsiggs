@@ -19,10 +19,6 @@
 
 ---
 
-![Snake animation](https://github.com/Igsiggs/Igsiggs/blob/output/github-contribution-grid-snake.svg)
-
----
-
 <h1 align="center">
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
